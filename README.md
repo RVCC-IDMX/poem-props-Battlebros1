@@ -29,3 +29,9 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+## Credits
+
+<small> The poem was by [Beatrice Ravenel ](https://poets.org/poem/humming-bird)</small>
+
+<small> The image was by [Zdeněk Macháček](https://unsplash.com/@zmachacek?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/flying-blue-and-green-hummingbird-Vu4-Il_2Kdo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) </small>
