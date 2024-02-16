@@ -2,7 +2,7 @@
 
 // slightly lighten
 @function tint($color, $percentage) {
-  @return mix(rgb(88, 0, 81), $color, $percentage);
+  @return mix(rgb(16, 0, 88), $color, $percentage);
 }
 
 // slightly darken

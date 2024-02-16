@@ -15,9 +15,27 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  color: rgb(140, 0, 255);
-  text-align: center;
+.poem {
+  margin-inline: auto;
+  font-size: var(--font-size-fluid-2);
+
+  &__subtitle {
+    color: rgb(140, 0, 255);
+    text-align: center;
+  }
+
+  &__body {
+    text-align: center;
+  }
+
+  &__rule {
+    --step-5: clamp(0.16rem, calc(-0.01rem + 0.81vw), 0.25rem);
+
+    margin-block: var(--step-5);
+    border: var(--step-5) solid black;
+    border-radius: 60%;
+    margin-inline: auto;
+  }
 }
 
 .credits {
@@ -25,3 +43,5 @@ h2 {
   font-size: var(--font-size-0);
   margin-inline: auto;
 }
+
+
