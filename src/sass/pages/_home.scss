@@ -14,3 +14,14 @@ h1 {
   color: var.$primary-color;
   text-align: center;
 }
+
+h2 {
+  color: rgb(140, 0, 255);
+  text-align: center;
+}
+
+.credits {
+  text-align: center;
+  font-size: var(--font-size-0);
+  margin-inline: auto;
+}
